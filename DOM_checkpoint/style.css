@@ -1,0 +1,83 @@
+
+header p{
+    font-size: 30px;
+    color:darksalmon;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+
+#item1, #item2, #item3{
+    display:flex;
+    justify-content: center;
+    background-color: whitesmoke;
+    padding:50px;
+    max-height: 200px;
+}   
+.icon1{
+    margin-left: 100px;
+    margin-right: 30px;
+    padding: 5px;
+    background-color: transparent;
+    border-color: transparent;
+    
+}
+
+.icon2{  
+    margin-right:30px;
+    padding: 50px;
+    background-color: transparent;
+    border-color: transparent;
+
+}
+#text{
+    margin-left:100px;
+    text-align: center;
+}
+#text h1{
+    font-size: 30px;
+}
+#text h2{
+    color:darksalmon;
+    font-size: 20px;
+}
+#text2{
+    margin-left:200px;
+    text-align: center;
+    margin-right: 40px;
+}
+#text2 h1{
+    font-size: 30px;
+}
+#text2 h2{
+    color:darksalmon;
+    font-size: 20px;
+}
+
+
+input{
+    width: 25px;
+    height: 30px;
+}
+.price{
+    margin-left: 40px;
+}
+.price p{
+    font-size: 20px;
+
+}
+
+.total{
+   margin-left: 600px;
+    font-size: 30px;
+    color:darkslategray;
+}
+
+
+
+
+
+
+
+
+ 
